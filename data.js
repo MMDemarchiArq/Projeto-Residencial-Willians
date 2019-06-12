@@ -24,14 +24,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5329434040404735,
-        "pitch": 0.31178432108548293,
-        "fov": 1.147397461371368
+        "yaw": -1.6470071198520877,
+        "pitch": 0.22919972987851622,
+        "fov": 1.206660556923714
       },
       "linkHotspots": [
         {
-          "yaw": -1.2403097327336852,
-          "pitch": 0.6282006398078153,
+          "yaw": -1.2940809865720606,
+          "pitch": 0.5900835337254104,
           "rotation": 4.71238898038469,
           "target": "14-garagem-vista-1"
         }
@@ -62,60 +62,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4618877814704465,
-        "pitch": 0.1851420950867002,
+        "yaw": -1.487439825593487,
+        "pitch": 0.18792897893767702,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.2278545034777437,
-          "pitch": 0.5589494091407214,
+          "yaw": -1.8909473635047682,
+          "pitch": 0.7258901363631356,
           "rotation": 3.141592653589793,
-          "target": "27-sala-de-estar"
+          "target": "31-sala-de-estar"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "2-banheiro",
-      "name": "Banheiro",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.4495501161109985,
-        "pitch": 0.20454759532357158,
-        "fov": 1.1545084566471375
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.9010252865483412,
-          "pitch": 0.6667077478114791,
-          "rotation": 3.141592653589793,
-          "target": "7-corredor"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "3-banheiro-espao-gourmet",
+      "id": "2-banheiro-espao-gourmet",
       "name": "Banheiro Espaço Gourmet",
       "levels": [
         {
@@ -138,14 +100,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5607078329868145,
-        "pitch": 0.4598673100811901,
+        "yaw": -1.493215164565699,
+        "pitch": 0.4169191978931224,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.028869144908663,
-          "pitch": 0.9226626308338624,
+          "yaw": -1.8830469374112262,
+          "pitch": 0.9604904276810338,
           "rotation": 3.141592653589793,
           "target": "13-espao-gourmet-vista-2"
         }
@@ -153,7 +115,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-banheiro-sute-master-vista-1",
+      "id": "3-banheiro-sute-master-vista-1",
       "name": "Banheiro Suíte Master Vista 1",
       "levels": [
         {
@@ -176,28 +138,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5153918791613172,
-        "pitch": 0.26900645035951243,
-        "fov": 1.1545084566471375
+        "yaw": -1.4179054843201868,
+        "pitch": 0.1522943040229201,
+        "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.560494124850102,
-          "pitch": 0.2657907890880775,
+          "yaw": -2.44733671422998,
+          "pitch": 0.3130925164305296,
           "rotation": 4.71238898038469,
-          "target": "30-sute-master-vista-2"
+          "target": "34-sute-master-vista-2"
         },
         {
-          "yaw": -1.20256876222248,
-          "pitch": 0.7581657286526937,
-          "rotation": 3.141592653589793,
-          "target": "5-banheiro-sute-master-vista-2"
+          "yaw": -1.2524412339949151,
+          "pitch": 0.6085407529302937,
+          "rotation": 0,
+          "target": "4-banheiro-sute-master-vista-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "5-banheiro-sute-master-vista-2",
+      "id": "4-banheiro-sute-master-vista-2",
       "name": "Banheiro Suíte Master Vista 2",
       "levels": [
         {
@@ -220,22 +182,60 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.3970524870351806,
-        "pitch": 0.23028759108653318,
-        "fov": 1.1545084566471375
+        "yaw": -1.526177209494799,
+        "pitch": 0.3293971639272897,
+        "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.3757593674179063,
-          "pitch": 0.21984748693741807,
-          "rotation": 0,
-          "target": "30-sute-master-vista-2"
+          "yaw": -1.4400801220000776,
+          "pitch": 0.15396962984111795,
+          "rotation": 1.5707963267948966,
+          "target": "34-sute-master-vista-2"
         },
         {
-          "yaw": -1.707729881451204,
-          "pitch": 0.7303160872507988,
+          "yaw": -1.6918881876652367,
+          "pitch": 0.8776768233221688,
           "rotation": 3.141592653589793,
-          "target": "4-banheiro-sute-master-vista-1"
+          "target": "3-banheiro-sute-master-vista-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-banheiro",
+      "name": "Banheiro",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.3734303883223191,
+        "pitch": 0.2759565762630025,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7390780408398534,
+          "pitch": 0.8361712593720405,
+          "rotation": 3.141592653589793,
+          "target": "7-corredor"
         }
       ],
       "infoHotspots": []
@@ -264,20 +264,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4828317324943647,
-        "pitch": 0.2747175360531706,
+        "yaw": -1.4412075724185804,
+        "pitch": 0.1796555598687224,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.664514937808356,
-          "pitch": 0.4097052526992737,
-          "rotation": 10.995574287564278,
+          "yaw": -1.45624552071272,
+          "pitch": 0.5161707418042631,
+          "rotation": 0,
           "target": "12-espao-gourmet-vista-1"
         },
         {
-          "yaw": -0.7614658105253387,
-          "pitch": 0.6523362278158054,
+          "yaw": -0.9715864679979163,
+          "pitch": 0.6756993239810143,
           "rotation": 3.141592653589793,
           "target": "18-mesa-espao-gourmet"
         }
@@ -308,38 +308,38 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4212109358420015,
-        "pitch": 0.11478295530655558,
+        "yaw": -1.4299567372734892,
+        "pitch": 0.1630803569470487,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.078815837618361,
-          "pitch": 0.0744802232128059,
+          "yaw": -2.0795775761384867,
+          "pitch": 0.13864548763363693,
           "rotation": 4.71238898038469,
-          "target": "29-sute-master-vista-1"
+          "target": "33-sute-master-vista-1"
         },
         {
-          "yaw": -0.6841470880375056,
-          "pitch": 0.09290413014149834,
-          "rotation": 7.853981633974483,
-          "target": "31-quarto-1-vista-1"
+          "yaw": -0.8430158760845288,
+          "pitch": 0.12163023727671352,
+          "rotation": 1.5707963267948966,
+          "target": "21-quarto-1-vista-1"
         },
         {
-          "yaw": -1.8029672705975628,
-          "pitch": 0.045533101325533565,
+          "yaw": -1.743861317045381,
+          "pitch": 0.05988843056590909,
           "rotation": 4.71238898038469,
-          "target": "2-banheiro"
+          "target": "5-banheiro"
         },
         {
-          "yaw": -1.5480693646890078,
-          "pitch": 0.014542173687507542,
+          "yaw": -1.5625190765061703,
+          "pitch": 0.0016688860941727057,
           "rotation": 0,
-          "target": "33-quarto-2-vista-1"
+          "target": "23-quarto-2-vista-1"
         },
         {
-          "yaw": -1.5513504802523244,
-          "pitch": 0.6403503378846302,
+          "yaw": -1.562941734598697,
+          "pitch": 0.7383461132197837,
           "rotation": 3.141592653589793,
           "target": "19-mezanino-vista-1"
         }
@@ -370,28 +370,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5987889818811816,
-        "pitch": 0.27399375241269297,
+        "yaw": -1.2775825955006859,
+        "pitch": 0.0423497312037302,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.4024571087414888,
-          "pitch": 0.5922501295281712,
-          "rotation": 0,
+          "yaw": -1.4319155885133288,
+          "pitch": 0.4664067419126603,
+          "rotation": 3.141592653589793,
           "target": "9-cozinha-vista-2"
         },
         {
-          "yaw": -2.5726468994180767,
-          "pitch": 0.2730862462942376,
-          "rotation": 4.71238898038469,
-          "target": "16-hall-de-entrada"
-        },
-        {
-          "yaw": -1.4274190842878056,
-          "pitch": 0.06152064706422422,
+          "yaw": -1.4292128691300725,
+          "pitch": 0.07951739424546744,
           "rotation": 0,
           "target": "12-espao-gourmet-vista-1"
+        },
+        {
+          "yaw": -2.2686742571229246,
+          "pitch": 0.24266565906220983,
+          "rotation": 4.71238898038469,
+          "target": "16-hall-de-entrada"
         }
       ],
       "infoHotspots": []
@@ -420,32 +420,32 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5707963267949019,
-        "pitch": 0.24785151439027686,
+        "yaw": -1.594722420639517,
+        "pitch": 0.19410364961713356,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.8416190626378572,
-          "pitch": 0.46737410017750136,
+          "yaw": -1.7914698402495013,
+          "pitch": 0.5673271679119729,
           "rotation": 3.141592653589793,
           "target": "8-cozinha-vista-1"
         },
         {
-          "yaw": -1.630828393570571,
-          "pitch": -0.02245294475262405,
+          "yaw": -1.625239331695422,
+          "pitch": -0.010819628584279428,
           "rotation": 0,
           "target": "16-hall-de-entrada"
         },
         {
-          "yaw": -1.8985651392018958,
-          "pitch": -0.027377056542469802,
+          "yaw": -1.8719363257103616,
+          "pitch": -0.016790466272567528,
           "rotation": 0,
           "target": "17-lavanderia"
         },
         {
-          "yaw": -2.0492067374391425,
-          "pitch": 0.05587684369484158,
+          "yaw": -2.0428064339116805,
+          "pitch": -0.018716221197925265,
           "rotation": 4.71238898038469,
           "target": "10-despensa"
         }
@@ -476,15 +476,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.7027990958762302,
-        "pitch": 0.33353676942061483,
+        "yaw": -1.6402420591374138,
+        "pitch": 0.15056547291429823,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.775703626136007,
-          "pitch": 0.8488600836579767,
-          "rotation": 3.141592653589793,
+          "yaw": -1.877310675599416,
+          "pitch": 0.7233897578498478,
+          "rotation": 9.42477796076938,
           "target": "9-cozinha-vista-2"
         }
       ],
@@ -514,28 +514,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6734992570011382,
-        "pitch": 0.06141002428972797,
-        "fov": 1.1545084566471375
+        "yaw": -1.6280560401051325,
+        "pitch": 0.06643081302926923,
+        "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.2898301567802584,
-          "pitch": 0.5690697715224395,
-          "rotation": 3.141592653589793,
-          "target": "27-sala-de-estar"
-        },
-        {
-          "yaw": -1.4492442570354864,
-          "pitch": -0.00756731177660086,
+          "yaw": -1.3947169389279601,
+          "pitch": 0.1621199579224033,
           "rotation": 0,
           "target": "19-mezanino-vista-1"
         },
         {
-          "yaw": -1.8002576803522334,
-          "pitch": 0.36722461258962724,
+          "yaw": -1.8170833149432148,
+          "pitch": 0.3532757495192662,
           "rotation": 0,
-          "target": "28-sala-de-jantar"
+          "target": "32-sala-de-jantar"
+        },
+        {
+          "yaw": -1.8287846046899912,
+          "pitch": 0.6459743597696654,
+          "rotation": 3.141592653589793,
+          "target": "31-sala-de-estar"
         }
       ],
       "infoHotspots": []
@@ -564,26 +564,26 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.375618763133442,
-        "pitch": 0.2974770447942312,
+        "yaw": -1.3094527439904766,
+        "pitch": 0.39715965558918853,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.6798022368195955,
-          "pitch": 0.8062466408893627,
+          "yaw": -1.5236208985083515,
+          "pitch": 0.9660785947059018,
           "rotation": 3.141592653589793,
           "target": "8-cozinha-vista-1"
         },
         {
-          "yaw": -2.3685470293329747,
-          "pitch": 0.25931747402357175,
-          "rotation": 8.63937979737193,
+          "yaw": -2.344212410660644,
+          "pitch": 0.23928429784768213,
+          "rotation": 4.71238898038469,
           "target": "6-churrasqueira-espao-gourmet"
         },
         {
-          "yaw": -0.83476541712227,
-          "pitch": 0.2874638444029003,
+          "yaw": -0.8992441602641712,
+          "pitch": 0.22935703561143228,
           "rotation": 0,
           "target": "13-espao-gourmet-vista-2"
         }
@@ -614,28 +614,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.632210285999939,
-        "pitch": 0.2597961656861685,
+        "yaw": -1.6089690930281044,
+        "pitch": 0.07465407059945406,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.8821293362296352,
-          "pitch": 0.21167344611619576,
+          "yaw": -1.741709362399746,
+          "pitch": 0.22398895445476086,
           "rotation": 0,
           "target": "12-espao-gourmet-vista-1"
         },
         {
-          "yaw": -2.1626214995221567,
-          "pitch": 0.07912019417618765,
+          "yaw": -2.0096699395874076,
+          "pitch": 0.16435257615624188,
           "rotation": 0,
-          "target": "3-banheiro-espao-gourmet"
+          "target": "2-banheiro-espao-gourmet"
         },
         {
-          "yaw": -1.5193149710967173,
-          "pitch": 0.7600570186572,
+          "yaw": -2.04610226980561,
+          "pitch": 0.6026046246019039,
           "rotation": 3.141592653589793,
-          "target": "21-quintal-dos-fundos-vista-1"
+          "target": "26-quintal-dos-fundos-vista-1"
         }
       ],
       "infoHotspots": []
@@ -664,20 +664,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6796920506004973,
-        "pitch": 0.2986162823979388,
+        "yaw": -1.5100588688254994,
+        "pitch": 0.2568100028622027,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.088557278432159,
-          "pitch": 0.7852967559119506,
-          "rotation": 3.141592653589793,
+          "yaw": -1.9088738056652392,
+          "pitch": 0.8054095568310409,
+          "rotation": 2.356194490192345,
           "target": "0-fachada"
         },
         {
-          "yaw": -1.6482231078228686,
-          "pitch": 0.5493358182397365,
+          "yaw": -1.5572564008942038,
+          "pitch": 0.5866718151251717,
           "rotation": 0,
           "target": "15-garagem-vista-2"
         }
@@ -708,33 +708,33 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.448173307488556,
-        "pitch": 0.14323990203492443,
+        "yaw": -1.529088303096911,
+        "pitch": 0.1778710324828694,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.8803100625008753,
-          "pitch": 0.1945699051021279,
+          "yaw": -0.8717956161319123,
+          "pitch": 0.20822755292453188,
           "rotation": 1.5707963267948966,
           "target": "0-fachada"
         },
         {
-          "yaw": -1.5298393629636848,
-          "pitch": 0.2562410506828101,
+          "yaw": -1.5396797700932847,
+          "pitch": 0.1951791916051686,
           "rotation": 0,
-          "target": "23-quintal"
+          "target": "25-quintal"
         },
         {
-          "yaw": -2.2297163071295962,
-          "pitch": 0.19952377055753345,
+          "yaw": -2.2447079213279917,
+          "pitch": 0.16940238445992506,
           "rotation": 0,
           "target": "16-hall-de-entrada"
         },
         {
-          "yaw": -2.015357097924399,
-          "pitch": 0.5819511105878625,
-          "rotation": 3.9269908169872414,
+          "yaw": -2.1247860481675396,
+          "pitch": 0.6427908141099277,
+          "rotation": 1.5707963267948966,
           "target": "14-garagem-vista-1"
         }
       ],
@@ -764,34 +764,34 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4219522600656465,
-        "pitch": 0.07465407059946827,
+        "yaw": -1.3391363009432613,
+        "pitch": 0.19643718922489128,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.8753068443962704,
-          "pitch": 0.562900147417615,
+          "yaw": -1.8954681600305108,
+          "pitch": 0.6972672875095451,
           "rotation": 3.141592653589793,
           "target": "15-garagem-vista-2"
         },
         {
-          "yaw": -1.050207580881704,
-          "pitch": 0.09541204822677152,
-          "rotation": 0,
+          "yaw": -1.0633355749924966,
+          "pitch": 0.017526772009645697,
+          "rotation": 1.5707963267948966,
           "target": "8-cozinha-vista-1"
         },
         {
-          "yaw": -2.158260728320224,
-          "pitch": 0.35160432325855595,
+          "yaw": -2.1124953599470135,
+          "pitch": 0.4145852114299231,
           "rotation": 0,
-          "target": "28-sala-de-jantar"
+          "target": "32-sala-de-jantar"
         },
         {
-          "yaw": -1.6261128693652402,
-          "pitch": 0.20472369897878373,
+          "yaw": -1.6683681777706845,
+          "pitch": 0.2716512020261277,
           "rotation": 0,
-          "target": "27-sala-de-estar"
+          "target": "31-sala-de-estar"
         }
       ],
       "infoHotspots": []
@@ -820,22 +820,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.8647791540403293,
-        "pitch": 0.22731314478399867,
+        "yaw": -1.5064604969624078,
+        "pitch": 0.09715888474786283,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.691377041719928,
-          "pitch": 0.07239699362260055,
+          "yaw": -2.4765267932077357,
+          "pitch": 0.2421425490141118,
           "rotation": 4.71238898038469,
           "target": "9-cozinha-vista-2"
         },
         {
-          "yaw": -0.9813410695327978,
-          "pitch": 0.34612454955209415,
-          "rotation": 7.853981633974483,
-          "target": "23-quintal"
+          "yaw": -0.8924263183290044,
+          "pitch": 0.3076026137308254,
+          "rotation": 1.5707963267948966,
+          "target": "25-quintal"
         }
       ],
       "infoHotspots": []
@@ -864,28 +864,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6343961624919352,
-        "pitch": 0.3279105558500355,
+        "yaw": -1.5644219364101168,
+        "pitch": 0.3553286174651653,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.7319716433134005,
-          "pitch": 0.6166199843975928,
+          "yaw": -0.6256174071791243,
+          "pitch": 0.6352079480920239,
           "rotation": 8.63937979737193,
-          "target": "27-sala-de-estar"
+          "target": "31-sala-de-estar"
         },
         {
-          "yaw": -0.7699477976301168,
-          "pitch": 0.16316496453458385,
+          "yaw": -0.6438958057439486,
+          "pitch": 0.07932695904769105,
           "rotation": 1.5707963267948966,
           "target": "6-churrasqueira-espao-gourmet"
         },
         {
-          "yaw": -2.122789575883175,
-          "pitch": 0.2049830767269043,
+          "yaw": -2.1025013383650624,
+          "pitch": 0.19950993964244645,
           "rotation": 0,
-          "target": "22-quintal-dos-fundos-vista-2"
+          "target": "27-quintal-dos-fundos-vista-2"
         }
       ],
       "infoHotspots": []
@@ -914,26 +914,26 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.623205710733762,
-        "pitch": 0.24189790982194737,
+        "yaw": -1.4898413815901144,
+        "pitch": 0.2000729092065896,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.999735667388789,
-          "pitch": 0.7301560148511435,
+          "yaw": -1.8554401842688968,
+          "pitch": 0.7431879561949266,
           "rotation": 2.356194490192345,
           "target": "11-escada"
         },
         {
-          "yaw": -1.8488150297487174,
-          "pitch": -0.04333305258521669,
+          "yaw": -1.8773100823235396,
+          "pitch": 0.007835839381094445,
           "rotation": 0,
           "target": "7-corredor"
         },
         {
-          "yaw": -1.0964030044644986,
-          "pitch": 0.6708032424513348,
+          "yaw": -1.5709106289710686,
+          "pitch": 0.6013246790158995,
           "rotation": 1.5707963267948966,
           "target": "20-mezanino-vista-2"
         }
@@ -964,498 +964,34 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.3005504753314874,
-        "pitch": 0.24365122743723333,
+        "yaw": -1.3760175822723326,
+        "pitch": 0.29264395674992727,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.9443143936485008,
-          "pitch": 0.556876924787602,
-          "rotation": 10.210176124166829,
+          "yaw": -0.985766427233516,
+          "pitch": 0.6104278854570637,
+          "rotation": 0,
           "target": "11-escada"
         },
         {
-          "yaw": -1.465629651537494,
-          "pitch": 0.7586795377381712,
+          "yaw": -1.648634211952313,
+          "pitch": 0.8239465835818045,
           "rotation": 3.141592653589793,
           "target": "19-mezanino-vista-1"
         },
         {
-          "yaw": -1.7661456196458651,
-          "pitch": 0.31586737800602727,
+          "yaw": -1.7263454724664946,
+          "pitch": 0.2135654031134706,
           "rotation": 0,
-          "target": "25-sacada-vista-1"
+          "target": "29-sacada-vista-1"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "21-quintal-dos-fundos-vista-1",
-      "name": "Quintal dos Fundos Vista 1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.5331410060081474,
-        "pitch": 0.12244828497075133,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.3136612310008076,
-          "pitch": 0.32798057184064433,
-          "rotation": 0,
-          "target": "13-espao-gourmet-vista-2"
-        },
-        {
-          "yaw": -0.991519891885595,
-          "pitch": 0.4364967691883237,
-          "rotation": 6.283185307179586,
-          "target": "22-quintal-dos-fundos-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "22-quintal-dos-fundos-vista-2",
-      "name": "Quintal dos Fundos Vista 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.3209113353771293,
-        "pitch": -0.02090313976784408,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.0724469585483423,
-          "pitch": 0.38693781146980655,
-          "rotation": 4.71238898038469,
-          "target": "21-quintal-dos-fundos-vista-1"
-        },
-        {
-          "yaw": -1.100642023806632,
-          "pitch": 0.2467981225316329,
-          "rotation": 0,
-          "target": "18-mesa-espao-gourmet"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "23-quintal",
-      "name": "Quintal",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.1624388032810344,
-        "pitch": 0.3195194221657367,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.1990783679066048,
-          "pitch": 0.33316762669746325,
-          "rotation": 7.0685834705770345,
-          "target": "15-garagem-vista-2"
-        },
-        {
-          "yaw": -1.4191166825998085,
-          "pitch": 0.8326089979454725,
-          "rotation": 3.141592653589793,
-          "target": "17-lavanderia"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "24-sacada-sute-master",
-      "name": "Sacada Suíte Master",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.466367338730965,
-        "pitch": -0.09555721036731413,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.1359311298596637,
-          "pitch": 0.40575155455731604,
-          "rotation": 3.141592653589793,
-          "target": "30-sute-master-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "25-sacada-vista-1",
-      "name": "Sacada Vista 1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.3522644402331387,
-        "pitch": 0.33546884836716373,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.2653021060617373,
-          "pitch": 0.8554593960564496,
-          "rotation": 3.141592653589793,
-          "target": "20-mezanino-vista-2"
-        },
-        {
-          "yaw": -0.9805535679555533,
-          "pitch": 0.4483182815140303,
-          "rotation": 1.5707963267948966,
-          "target": "26-sacada-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "26-sacada-vista-2",
-      "name": "Sacada Vista 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.4347407878090586,
-        "pitch": 0.1702112809667753,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.5053844967124945,
-          "pitch": 0.2077931490720495,
-          "rotation": 0,
-          "target": "20-mezanino-vista-2"
-        },
-        {
-          "yaw": -1.6701544015237086,
-          "pitch": 0.5775932349483597,
-          "rotation": 7.853981633974483,
-          "target": "25-sacada-vista-1"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "27-sala-de-estar",
-      "name": "Sala de Estar",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.6903371612228142,
-        "pitch": 0.4241494075802983,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.4496953366791203,
-          "pitch": 0.9268122639864895,
-          "rotation": 3.141592653589793,
-          "target": "16-hall-de-entrada"
-        },
-        {
-          "yaw": -1.110624217488919,
-          "pitch": 0.2857941802757189,
-          "rotation": 0,
-          "target": "18-mesa-espao-gourmet"
-        },
-        {
-          "yaw": -0.7066669811368484,
-          "pitch": 0.19837065433054235,
-          "rotation": 7.853981633974483,
-          "target": "1-bancada-da-cozinha"
-        },
-        {
-          "yaw": -2.678741530447974,
-          "pitch": 0.6462880718684776,
-          "rotation": 16.493361431346422,
-          "target": "11-escada"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "28-sala-de-jantar",
-      "name": "Sala de Jantar",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.4616355770413207,
-        "pitch": 0.16237533962871709,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.472335785479686,
-          "pitch": 0.259056156060419,
-          "rotation": 6.283185307179586,
-          "target": "16-hall-de-entrada"
-        },
-        {
-          "yaw": -1.1934371462970752,
-          "pitch": -0.04423364248829387,
-          "rotation": 1.5707963267948966,
-          "target": "5-banheiro-sute-master-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "29-sute-master-vista-1",
-      "name": "Suíte Master Vista 1",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.4724906567676506,
-        "pitch": 0.25593903879199686,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.7955350258443374,
-          "pitch": 0.7641737881785335,
-          "rotation": 3.141592653589793,
-          "target": "7-corredor"
-        },
-        {
-          "yaw": -2.3425883990607463,
-          "pitch": 0.047997994193879734,
-          "rotation": 17.27875959474387,
-          "target": "4-banheiro-sute-master-vista-1"
-        },
-        {
-          "yaw": -2.037779331397463,
-          "pitch": 0.388095876193832,
-          "rotation": 2.356194490192345,
-          "target": "30-sute-master-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "30-sute-master-vista-2",
-      "name": "Suíte Master Vista 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.5526285401123996,
-        "pitch": 0.14034965272702138,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.005000814893627,
-          "pitch": 0.07646769306968082,
-          "rotation": 0,
-          "target": "24-sacada-sute-master"
-        },
-        {
-          "yaw": -1.0070387780435954,
-          "pitch": -0.0006283290244510908,
-          "rotation": 1.5707963267948966,
-          "target": "7-corredor"
-        },
-        {
-          "yaw": -1.2273934705034524,
-          "pitch": 0.43120828941994027,
-          "rotation": 0,
-          "target": "29-sute-master-vista-1"
-        },
-        {
-          "yaw": -1.9117226249694763,
-          "pitch": 0.6582407620760353,
-          "rotation": 3.141592653589793,
-          "target": "4-banheiro-sute-master-vista-1"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "31-quarto-1-vista-1",
+      "id": "21-quarto-1-vista-1",
       "name": "Quarto 1 Vista 1",
       "levels": [
         {
@@ -1478,28 +1014,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5435862998574663,
-        "pitch": 0.18215593226269888,
+        "yaw": -1.2775872504482635,
+        "pitch": 0.15738024580707233,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.3291640834934313,
-          "pitch": 0.7105800408141256,
+          "yaw": -1.1528332889684343,
+          "pitch": 0.7380119365416178,
           "rotation": 3.141592653589793,
           "target": "7-corredor"
         },
         {
-          "yaw": -1.2720418528112862,
-          "pitch": 0.4997706511533444,
-          "rotation": 4.71238898038469,
-          "target": "32-quarto-1-vista-2"
+          "yaw": -1.311531317748127,
+          "pitch": 0.5744732266183696,
+          "rotation": 0,
+          "target": "22-quarto-1-vista-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "32-quarto-1-vista-2",
+      "id": "22-quarto-1-vista-2",
       "name": "Quarto 1 Vista 2",
       "levels": [
         {
@@ -1522,28 +1058,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.774474252727213,
-        "pitch": 0.19111049095047505,
+        "yaw": -1.4538671797292793,
+        "pitch": 0.21214480445317818,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.3023373542291257,
-          "pitch": -0.04042424068354045,
-          "rotation": 0,
+          "yaw": -2.293491145922548,
+          "pitch": -0.12415766671026418,
+          "rotation": 4.71238898038469,
           "target": "7-corredor"
         },
         {
-          "yaw": -1.9065779579321873,
-          "pitch": 0.6523656273179697,
-          "rotation": 3.141592653589793,
-          "target": "31-quarto-1-vista-1"
+          "yaw": -1.6932153039760358,
+          "pitch": 0.7846077243020098,
+          "rotation": 5.497787143782138,
+          "target": "21-quarto-1-vista-1"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "33-quarto-2-vista-1",
+      "id": "23-quarto-2-vista-1",
       "name": "Quarto 2 Vista 1",
       "levels": [
         {
@@ -1566,28 +1102,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6036532068239637,
-        "pitch": 0.22694837462238837,
+        "yaw": -1.2786782936192829,
+        "pitch": 0.22479853544569117,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.504960001972483,
-          "pitch": 0.4200801468887647,
-          "rotation": 4.71238898038469,
+          "yaw": -1.6819640596878465,
+          "pitch": 0.765101173198957,
+          "rotation": 3.9269908169872414,
           "target": "7-corredor"
         },
         {
-          "yaw": -1.2573515838268214,
-          "pitch": 0.47206741421916654,
+          "yaw": -1.255975941643701,
+          "pitch": 0.48535880097711015,
           "rotation": 0,
-          "target": "34-quarto-2-vista-2"
+          "target": "24-quarto-2-vista-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "34-quarto-2-vista-2",
+      "id": "24-quarto-2-vista-2",
       "name": "Quarto 2 Vista 2",
       "levels": [
         {
@@ -1610,22 +1146,492 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.8285885443972667,
-        "pitch": 0.341191688901354,
+        "yaw": -1.4347420617839646,
+        "pitch": 0.13439321038314844,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.916740410660573,
-          "pitch": 0.0076892309912359735,
+          "yaw": -1.8690702919744702,
+          "pitch": 0.006273888670216721,
           "rotation": 1.5707963267948966,
           "target": "7-corredor"
         },
         {
-          "yaw": -2.0723571876180227,
-          "pitch": 0.5589513819453593,
+          "yaw": -2.0282985405134273,
+          "pitch": 0.5132278224281812,
           "rotation": 0,
-          "target": "33-quarto-2-vista-1"
+          "target": "23-quarto-2-vista-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "25-quintal",
+      "name": "Quintal",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.1728789651543003,
+        "pitch": 0.31438965018697473,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.1519004192240736,
+          "pitch": 0.1868728545729077,
+          "rotation": 1.5707963267948966,
+          "target": "15-garagem-vista-2"
+        },
+        {
+          "yaw": -1.5839510665589422,
+          "pitch": 0.8363643438122121,
+          "rotation": 3.141592653589793,
+          "target": "17-lavanderia"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "26-quintal-dos-fundos-vista-1",
+      "name": "Quintal dos Fundos Vista 1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.552734302948135,
+        "pitch": 0.08957264617961158,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.2722299705806783,
+          "pitch": 0.32902376133757194,
+          "rotation": 0,
+          "target": "13-espao-gourmet-vista-2"
+        },
+        {
+          "yaw": -0.811006963291355,
+          "pitch": 0.472545287186497,
+          "rotation": 6.283185307179586,
+          "target": "27-quintal-dos-fundos-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "27-quintal-dos-fundos-vista-2",
+      "name": "Quintal dos Fundos Vista 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.6540414404064165,
+        "pitch": 0.1289749917224121,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.5553333016554873,
+          "pitch": 0.48889813525375025,
+          "rotation": 4.71238898038469,
+          "target": "26-quintal-dos-fundos-vista-1"
+        },
+        {
+          "yaw": -1.3932215233141143,
+          "pitch": 0.26134252347645237,
+          "rotation": 0,
+          "target": "18-mesa-espao-gourmet"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "28-sacada-sute-master",
+      "name": "Sacada Suíte Master",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.3027984383031708,
+        "pitch": 0.25979616568615427,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.1778845186054632,
+          "pitch": 0.8307198422283921,
+          "rotation": 3.141592653589793,
+          "target": "34-sute-master-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "29-sacada-vista-1",
+      "name": "Sacada Vista 1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.382068196021276,
+        "pitch": 0.201400985672187,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.3372787562362198,
+          "pitch": 0.7757170396056683,
+          "rotation": 3.141592653589793,
+          "target": "20-mezanino-vista-2"
+        },
+        {
+          "yaw": -1.2527011988944405,
+          "pitch": 0.4328180548672105,
+          "rotation": 1.5707963267948966,
+          "target": "30-sacada-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "30-sacada-vista-2",
+      "name": "Sacada Vista 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.4164521651597664,
+        "pitch": 0.1672251181428166,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.5385156657889016,
+          "pitch": 0.31963083619754684,
+          "rotation": 0,
+          "target": "20-mezanino-vista-2"
+        },
+        {
+          "yaw": -1.9960370476115568,
+          "pitch": 0.5860103785153967,
+          "rotation": 1.5707963267948966,
+          "target": "29-sacada-vista-1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "31-sala-de-estar",
+      "name": "Sala de Estar",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.5828491955797652,
+        "pitch": 0.3762565158213391,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.4937935390960035,
+          "pitch": 0.5650684067958132,
+          "rotation": 4.71238898038469,
+          "target": "11-escada"
+        },
+        {
+          "yaw": -0.8467054620363772,
+          "pitch": 0.8043528113377576,
+          "rotation": 3.141592653589793,
+          "target": "16-hall-de-entrada"
+        },
+        {
+          "yaw": -1.2465288158768857,
+          "pitch": 0.2256648163206183,
+          "rotation": 0,
+          "target": "18-mesa-espao-gourmet"
+        },
+        {
+          "yaw": -0.6145667229315386,
+          "pitch": 0.20950603544874014,
+          "rotation": 7.853981633974483,
+          "target": "1-bancada-da-cozinha"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "32-sala-de-jantar",
+      "name": "Sala de Jantar",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.401657559814904,
+        "pitch": 0.2597961656861578,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7985192980125912,
+          "pitch": 0.2081906193347205,
+          "rotation": 0,
+          "target": "16-hall-de-entrada"
+        },
+        {
+          "yaw": -1.1428149901940117,
+          "pitch": 0.09840779897575658,
+          "rotation": 7.853981633974483,
+          "target": "15-garagem-vista-2"
+        },
+        {
+          "yaw": -2.2876353708367834,
+          "pitch": 0.5932653903908456,
+          "rotation": 4.71238898038469,
+          "target": "31-sala-de-estar"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "33-sute-master-vista-1",
+      "name": "Suíte Master Vista 1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.4807376460244939,
+        "pitch": 0.25979616568614716,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7513558654926271,
+          "pitch": 0.8185802696407993,
+          "rotation": 3.141592653589793,
+          "target": "7-corredor"
+        },
+        {
+          "yaw": -2.3227178255680414,
+          "pitch": 0.08154787783950113,
+          "rotation": 4.71238898038469,
+          "target": "3-banheiro-sute-master-vista-1"
+        },
+        {
+          "yaw": -1.9770962279101472,
+          "pitch": 0.38759506777892305,
+          "rotation": 2.356194490192345,
+          "target": "34-sute-master-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "34-sute-master-vista-2",
+      "name": "Suíte Master Vista 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.5734112261995072,
+        "pitch": 0.1805218321542199,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.990203213886268,
+          "pitch": 0.11453653260308627,
+          "rotation": 0,
+          "target": "28-sacada-sute-master"
+        },
+        {
+          "yaw": -1.0347594427651963,
+          "pitch": 0.03677508712882904,
+          "rotation": 7.853981633974483,
+          "target": "7-corredor"
+        },
+        {
+          "yaw": -1.2142242406467023,
+          "pitch": 0.5675833924357008,
+          "rotation": 0,
+          "target": "33-sute-master-vista-1"
+        },
+        {
+          "yaw": -1.8359277107876082,
+          "pitch": 0.7524331035941465,
+          "rotation": 3.141592653589793,
+          "target": "3-banheiro-sute-master-vista-1"
         }
       ],
       "infoHotspots": []
